@@ -26,3 +26,6 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+instance/secret_key
+audit_results.json
+models/registry/*.pkl
