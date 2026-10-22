@@ -1,0 +1,14 @@
+Flask==3.0.3
+Werkzeug==3.0.3
+waitress==3.0.2
+PyMySQL==1.1.1
+cryptography>=42.0.0
+opencv-python==4.10.0.84
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+joblib==1.4.2
+insightface==1.0.1
+onnxruntime==1.23.2
+scikit-image==0.25.2
+matplotlib==3.10.8

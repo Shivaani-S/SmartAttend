@@ -1,0 +1,14 @@
+{
+  "attendance_percentage": {
+    "mean": 75.15,
+    "std": 14.285
+  },
+  "marks_average_percentage": {
+    "mean": 69.434,
+    "std": 17.695
+  },
+  "previous_gpa": {
+    "mean": 7.589,
+    "std": 1.449
+  }
+}
